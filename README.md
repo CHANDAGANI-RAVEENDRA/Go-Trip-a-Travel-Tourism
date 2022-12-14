@@ -12,10 +12,10 @@
 
 🚩Project Title : Go-Trip-a-Travel-Tourism website
 
-#📙Problem Statement/Opportunity :
+## 📙Problem Statement/Opportunity :
 This application is developed to provide best travelling services for the customers. I have developed tours and travel management system to provide a search platform where a tourist can find their tour places according to their choices. Build a website that have: Home Page, About Us page,Explorepage,Contact Us page,Travelbot.
 
-#📝Project Description :
+## 📝Project Description :
 Tourism can be considered as most favorite pass time when people get free time. Several travel organizations are available on the web. The people or the tourist select their own Travel Package according to their personal interest. Main Objective of this system is to provide Online Registration, Tour Package Information, Tour Booking and Searching Facility for Customer and provide good Packages to Customers. If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24 x 7 service availble to the touristers.
 
 
@@ -26,6 +26,6 @@ Tourism can be considered as most favorite pass time when people get free time. 
 - CSS
 - JavaScript
 
-##Project video link
+## Project video link
 
 ****[https://youtu.be/HMUYVzGS65o](https://youtu.be/2LIm1u-fFr4)*****
