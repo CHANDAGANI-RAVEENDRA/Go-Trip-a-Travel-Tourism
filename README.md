@@ -2,11 +2,13 @@
 
 📌 This is the project created for Microsoft Future Ready Talent Virtual Internship Program on developing Azure Static Web Apps.
 
-🎯 Project Link : https://icy-cliff-0d9cdeb00.2.azurestaticapps.net
+🎯 Project Link :https://victorious-sky-05fe90d00.2.azurestaticapps.net/
+
+🎯 APP SERVICE :https://traveltourism.azurewebsites.net/
 
 🚩This is Go-Trip-a-Travel-Tourism Front End website design
 
-📡Web Technologies used: HTML, CSS, JS,Travelbot(Health Bot), Static Web Apps.
+📡Web Technologies used: HTML, CSS, JS,APP Service, Static Web Apps.
 
 💼Industry : Lifestyle
 
@@ -18,7 +20,7 @@ This application is developed to provide best travelling services for the custom
 ## 📝Project Description :
 Tourism can be considered as most favorite pass time when people get free time. Several travel organizations are available on the web. The people or the tourist select their own Travel Package according to their personal interest. Main Objective of this system is to provide Online Registration, Tour Package Information, Tour Booking and Searching Facility for Customer and provide good Packages to Customers. If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24 x 7 service availble to the touristers.
 ## AZURE TECHNOLOGIES
-  - HEALTH BOT
+  - APP SERVICE
   - STATIC WEB APPS
 
 ## Tech Stack 💻
@@ -40,7 +42,8 @@ Tourism can be considered as most favorite pass time when people get free time. 
 ![Screenshot (20)](https://user-images.githubusercontent.com/112164777/209960258-69e30e22-bb66-47ba-b843-f763f92a1b7f.png)
 ## CONTACT
 ![Screenshot (21)](https://user-images.githubusercontent.com/112164777/209961334-32a861bc-3745-49ba-8b8a-f12d6917f2eb.png)
-## TRAVELBOT(HEALTH BOT)
-![Screenshot (23)](https://user-images.githubusercontent.com/112164777/209961404-ec436609-ffcc-436f-ac8f-09e4f6bb543a.png)
+## AZURE SERVICES
+![Screenshot (25)](https://user-images.githubusercontent.com/112164777/210062642-89e9da4a-91bb-41d5-bb7a-a4f764cb7f6d.png)
+
 
 
