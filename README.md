@@ -47,5 +47,6 @@ Tourism can be considered as most favorite pass time when people get free time. 
 ## APP SERVICE
 ![Screenshot (33)](https://user-images.githubusercontent.com/112164777/210564666-ce7a64d3-5483-471b-9037-e3d89c9dd6fb.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/112164777/210564731-2bc04c94-7af6-4dc8-b444-e04132c5a736.png)
-
+## STATIC WEB APPS TOKEN
+feef543117e6ce5d90bc6f9cfc2d6c6c97c89f25a48a2739ab8f0b94e94d5fd82-d65b255d-839e-49c4-8a8f-c154d030703200046668
 
