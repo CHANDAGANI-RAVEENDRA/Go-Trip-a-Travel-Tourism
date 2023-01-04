@@ -45,5 +45,8 @@ Tourism can be considered as most favorite pass time when people get free time. 
 ## AZURE SERVICES
 ![Screenshot (25)](https://user-images.githubusercontent.com/112164777/210062642-89e9da4a-91bb-41d5-bb7a-a4f764cb7f6d.png)
 ## APP SERVICE
+![Screenshot (33)](https://user-images.githubusercontent.com/112164777/210564666-ce7a64d3-5483-471b-9037-e3d89c9dd6fb.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/112164777/210564731-2bc04c94-7af6-4dc8-b444-e04132c5a736.png)
+
 
 
